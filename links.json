@@ -2,3 +2,19 @@
   "Name"     : "A-01-10" ,
   "AudioURL" : "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
 }
+
+
+{
+  “version” : 1,
+  “audios” :
+  [
+    {
+      "name" : "A-01-10",
+      "url" : "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
+    },
+    {
+      "name" : "name2",
+      "url" : "www.youtube.com"
+    }
+  ]
+}
