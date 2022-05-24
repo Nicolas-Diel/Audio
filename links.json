@@ -3,15 +3,15 @@
   “audios” :
   [
     {
-      "name" : "A-01-10",
+      "name" : "Audio1",
       "url" : "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
     },
     {
-      "name" : "Q-01-10",
+      "name" : "Audio2",
       "url" : "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-10.mp3?raw=true"
     },
     {
-      "name" : "Q-01-09",
+      "name" : "Audio3",
       "url" : "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-09.mp3?raw=true"
     }
   ]
