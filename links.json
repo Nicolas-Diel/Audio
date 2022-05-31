@@ -1,15 +1,21 @@
 {
-	"audios": [{
-			"name": "A-01-10",
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
+	"audio": [{
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/music.mp3?raw=true"
 		},
 		{
-			"name": "Q-01-09",
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-09.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-10.mp3?raw=true"
 		},
 		{
-			"name": "Q-01-10",
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-10.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
+		},
+		{
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-09.mp3?raw=true"
+		}
+	],
+	
+	"texture": [			
+		{
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/image.jpg"
 		}
 	]
 }
