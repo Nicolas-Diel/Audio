@@ -1,5 +1,5 @@
 {
-	"audio": [{
+	"audios": [{
 			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/music.mp3?raw=true"
 		},
 		{
@@ -13,7 +13,7 @@
 		}
 	],
 	
-	"texture": [			
+	"images": [			
 		{
 			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/image.jpg"
 		}
