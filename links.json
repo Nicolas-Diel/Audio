@@ -1,24 +1,24 @@
 {
 	"audios": [{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/reactor-gcs-en-SG-WayneNeural_798b3e9b75a94f634ebe50f5e654ee79?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/reactor-gcs-en-SG-WayneNeural_798b3e9b75a94f634ebe50f5e654ee79?raw=true"
 		},
 		{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-10.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-10.mp3?raw=true"
 		},
 		{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/A-01-10.mp3?raw=true"
 		},
 		{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/music.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/music.mp3?raw=true"
 		},
 		{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-09.mp3?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/Q-01-09.mp3?raw=true"
 		}
 	],
 	
 	"images": [			
 		{
-			"url": "https://cors-anywhere.herokuapp.com/https://github.com/Nicolas-Diel/Audio/blob/main/image.jpg?raw=true"
+			"url": "https://github.com/Nicolas-Diel/Audio/blob/main/image.jpg?raw=true"
 		}
 	]
 }
